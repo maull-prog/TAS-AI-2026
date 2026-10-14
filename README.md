@@ -1,2 +1,2 @@
-# TAS-AI-2026
-TUGAS AKHIR STREMLIT MONGODB
+# Streamlit-pertama
+Belajar Streamlit dan machine learning
